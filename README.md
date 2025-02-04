@@ -7,7 +7,7 @@ Churn é uma métrica que indica o número de clientes que cancelaram o contrato
    Os dados utilizados neste projeto foram fornecidos na plataforma Kaggle e podem ser acessados através deste link: <a href="https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset/data">Kaggle: Customer Churn Dataset</a>
 </div>
 
-# Estrutura dos dados
+## Estrutura dos dados
 Os datasets (treinamento e teste) possuem as seguintes colunas:
 
 * CustomerID – Identificação do cliente
@@ -23,10 +23,10 @@ Os datasets (treinamento e teste) possuem as seguintes colunas:
 * Last Interaction – Última interação com a empresa
 * Churn – Variável Alvo (1 para clientes que cancelaram, 0 para clientes que permaneceram)
 
-# Análise Exploratória de Dados (EDA)
+## Análise Exploratória de Dados (EDA)
 
-# Modelagem
+## Modelagem
 * Árvore de Decisão
 * Random Forest
 
-# Conclusão e Interpretação dos Resultados
+## Conclusão e Interpretação dos Resultados
