@@ -3,7 +3,9 @@ Com o intúito de enfrentar a queda de clientes de uma empresa que oferece um de
 
 Churn é uma métrica que indica o número de clientes que cancelaram o contrato ou pararam de comprar um produto em um determinado período de tempo. Por exemplo, clientes que cancelaram o contrato de serviço ou não renovaram após o vencimento são considerados clientes em churn.
 
-Os dados utilizados neste projeto foram fornecidos na plataforma Kaggle e podem ser acessados através deste link: Kaggle: Customer Churn Dataset.
+<div style>
+   Os dados utilizados neste projeto foram fornecidos na plataforma Kaggle e podem ser acessados através deste link: <a href="https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset/data">Kaggle: Customer Churn Dataset</a>
+</div>
 
 # Estrutura dos dados
 Os datasets (treinamento e teste) possuem as seguintes colunas:
