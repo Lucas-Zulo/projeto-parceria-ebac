@@ -25,8 +25,10 @@ Os datasets (treinamento e teste) possuem as seguintes colunas:
 
 ## Análise Exploratória de Dados (EDA)
 
+## Coleta de Dados
+
 ## Modelagem
 * Árvore de Decisão
 * Random Forest
 
-## Conclusão e Interpretação dos Resultados
+## Conclusões
